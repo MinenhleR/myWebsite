@@ -9,6 +9,10 @@ Installation
 Usage
 Credits
 
+Installation: To view the CV, simply open the online.html file in a web browser.
+
+Or 
+
 Installation:
 To install and run this project locally, follow these steps:
 
